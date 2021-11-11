@@ -1,5 +1,5 @@
 # Golang Parser
-This is a project from my Concepts of Programming Langauges course.
+This is a project from my Concepts of Programming Langauges course, CSC 3310.
 
 We implemented a full parser in Golang to work with a simple programming language containing 12 tokens. This project was further extended to output code in both Scheme and Prolog with the goal of having programs in all three langauges work together. The parser was created to run in Linux, and the output was determined by the file name given as an argument and the "-s" or "-p" flags for indicating Scheme or Prolog output respectively. The language grammar and tokens used are included below.
 
